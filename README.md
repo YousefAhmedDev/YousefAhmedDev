@@ -1,120 +1,79 @@
 <div align="center">
 
-# 👋 Hi, I'm Yousef Ahmed
+# 🧪 Yousef Ahmed
 
 ### C++ Developer in Progress
 
-**Problem Solving · Algorithms · Software Development**
+**Problem Solving • Algorithms • C++**
 
 <br>
 
-> 🧪 **"Get excited about science!"**
+> **"Science is elegant."**
 >
 > — Senku Ishigami
 
 </div>
 
+<br>
+
+<p>
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=YousefAhmedDev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+  
+  <p align="right">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/-Problem%20Solving-1F6FEB?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Algorithms-238636?style=flat-square"/>
+    <img src="https://img.shields.io/badge/-File%20Handling-6F42C1?style=flat-square"/>
+  </p>
+</p>
+
+<br clear="both"/>
+
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
 I'm a C++ learner focused on **problem solving, algorithms, and building real projects**.
 
-I believe in understanding the problem first, then designing, coding, debugging, and improving the solution.
+I learn by understanding the problem, designing the solution, writing the code,
+debugging it, and improving it.
 
 ---
 
-## ⚙️ Tech Stack
+### 🚀 Currently Learning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,git,github,visualstudio" />
-
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### 💻 C++
-
-Programming &  
-Problem Solving
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧠 Algorithms
-
-Problem Analysis &  
-Algorithm Design
-
-</td>
-
-<td width="33%" align="center">
-
-### 🏗️ Projects
-
-Building &  
-Improving C++ Projects
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-00897B?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
-<table align="center">
-<tr>
-<td width="50%">
+<p align="center">
 
-### 🏦 Bank System
+<a href="https://github.com/YousefAhmedDev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YousefAhmedDev&repo=Bank-System&hide_border=true&theme=transparent"/>
+</a>
 
-File-based banking system built with C++.
+<a href="https://github.com/YousefAhmedDev">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YousefAhmedDev&repo=ATM-System&hide_border=true&theme=transparent"/>
+</a>
 
-</td>
-
-<td width="50%">
-
-### 🏧 ATM System
-
-Console-based ATM system with authentication and transactions.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📅 Date & Calendar
-
-Date calculations and reusable C++ functions.
-
-</td>
-
-<td width="50%">
-
-### 🔨 More Coming
-
-More projects as I continue my journey.
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
 <div align="center">
 
-### 🧪 Learn → Build → Break → Debug → Improve
+### 🧪 Build. Break. Learn. Repeat.
 
-**Keep learning. Keep building.**
+**10 Billion Percent!**
 
 </div>
