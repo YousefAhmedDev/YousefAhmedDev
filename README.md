@@ -4,7 +4,11 @@
 
 ### C++ Developer in Progress | Problem Solving | Algorithms
 
-<img src="YOUR_SENKU_IMAGE_URL" width="300">
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/843/652/7c1.png" width="280">
+
+<br>
+
+**"Get excited about science!" — Senku**
 
 </div>
 
@@ -14,17 +18,10 @@
 
 I'm a C++ learner following a structured programming roadmap.
 
-My goal is not just to learn programming syntax, but to understand how
-problems are analyzed, solved, and transformed into clean and organized code.
+My goal isn't just to learn programming syntax or memorize solutions.
 
-I focus on:
-
-- 🧩 Problem Solving
-- 🧠 Algorithm Design
-- 🏗️ Modular Programming
-- ♻️ Code Reusability
-- 🐛 Debugging
-- 💻 Building Real Projects
+I focus on understanding the problem, analyzing it, designing the solution,
+writing clean and organized code, debugging, and building projects independently.
 
 ---
 
@@ -35,18 +32,20 @@ I focus on:
 - Programming Foundations
 - Algorithms & Problem Solving
 - Introduction to Programming with C++
-- Course 8 — 65/65 Problems
+- Course 8 — **65/65 Problems**
 - Course 8 Final Projects
 
 ### 📚 Currently Learning
 
-- Foundations — Level 2
+**Foundations — Level 2**
+
 - Computer Networks
 - Internet Fundamentals
 - TCP/IP
 - IPv4 / IPv6
 - Subnets
 - Ports & Sockets
+- Routers & Gateways
 - DNS
 
 ### 🔜 Coming Next
@@ -57,13 +56,17 @@ I focus on:
 
 ---
 
-## 💻 Current Skills
+## 💻 Tech Stack
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,git,github,visualstudio" />
 
 </p>
+
+---
+
+## 🧩 Programming Skills
 
 ### Programming
 
@@ -76,41 +79,89 @@ I focus on:
 - Structures
 - File Handling
 
-### Programming Concepts
+### Concepts
 
 - Algorithm Design
+- Problem Analysis
 - Modular Programming
 - Code Reusability
 - Debugging
-- Problem Analysis
+- Clean & Organized Code
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 ### 🏦 Bank System
 
-A file-based banking system built using C++.
+A file-based banking system built with C++.
 
-### 🏧 ATM System
+Features include:
 
-A console-based ATM system focusing on menus, transactions,
-user authentication, and file handling.
-
-### 📅 Date & Calendar Systems
-
-C++ projects involving dates, calendars, calculations,
-and reusable functions.
+- Client management
+- User management
+- Login system
+- Permissions
+- Transactions
+- File handling
 
 ---
 
-## 📈 My Learning Philosophy
+### 🏧 ATM System
 
-> **Understand → Analyze → Design → Code → Debug → Improve**
+A console-based ATM system built with C++.
 
-I don't want to just memorize solutions.
+Focus areas:
 
-I want to understand **why** the solution works and how to build it myself.
+- Authentication
+- Menus
+- Transactions
+- Account management
+- File handling
+
+---
+
+### 📅 Date & Calendar Systems
+
+A collection of C++ problems and projects involving:
+
+- Dates
+- Calendars
+- Leap years
+- Date calculations
+- Reusable functions
+- Modular programming
+
+---
+
+## 🧠 How I Learn
+
+I follow this process:
+
+<p align="center">
+
+<b>
+Understand → Analyze → Design → Code → Debug → Improve
+</b>
+
+</p>
+
+I don't want to simply memorize solutions.
+
+I want to understand **why the solution works** and be able to build it myself.
+
+---
+
+## 📈 Learning Progress
+
+```text
+C++ Fundamentals       ████████████████████  100%
+Problem Solving        ████████████████████  100%
+Algorithms             ███████████████████░   90%
+Projects               ████████████████░░░░   80%
+Systems & Networks     █████░░░░░░░░░░░░░░   25%
+OOP                    ░░░░░░░░░░░░░░░░░░░░    0%
+```
 
 ---
 
@@ -122,10 +173,24 @@ To become a strong software developer by building a solid foundation in:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YousefAhmedDev&show_icons=true&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefAhmedDev&layout=compact&hide_border=true" height="170">
+
+</p>
+
+---
+
 <div align="center">
 
 ### 🧪 Keep Learning. Keep Building. Keep Improving.
 
-<img src="YOUR_SENKU_SMALL_IMAGE_URL" width="150">
+**10 Billion Percent!**
+
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/001/843/652/7c1.png" width="120">
 
 </div>
