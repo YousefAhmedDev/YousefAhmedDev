@@ -1,62 +1,158 @@
 <div align="center">
 
-# 🧪 Yousef Ahmed
+# Yousef Ahmed
 
 ### C++ Developer in Progress
 
-**Problem Solving • Algorithms • C++**
+**Problem Solving · Algorithms · Clean Code · Software Development**
 
 <br>
 
-> **"Science is elegant."**
->
-> — Senku Ishigami
+> *"Science is elegant."*  
+> — **Senku Ishigami**
 
 </div>
 
 <br>
 
-<p>
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=YousefAhmedDev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-  <p align="right">
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-    <br/>
-    <img src="https://img.shields.io/badge/-Problem%20Solving-1F6FEB?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-Algorithms-238636?style=flat-square"/>
-    <img src="https://img.shields.io/badge/-File%20Handling-6F42C1?style=flat-square"/>
-  </p>
-</p>
+### 👨‍💻 About Me
 
-<br clear="both"/>
+I'm a C++ learner focused on building strong programming fundamentals through problem solving and real practice.
+
+My focus is on understanding **how and why** a solution works, not just writing code that works.
+
+<br>
+
+**My approach:**
+
+`Understand` → `Analyze` → `Design` → `Code` → `Debug` → `Improve`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 What I Focus On
+
+- C++ Programming
+- Problem Solving
+- Algorithms
+- Data Structures
+- Modular Programming
+- Code Reusability
+- Debugging
+- Clean & Organized Code
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-### 🧠 About Me
+## 🛠️ Tools & Technologies
 
-I'm a C++ learner focused on **problem solving, algorithms, and building strong programming fundamentals**.
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-I learn by understanding the problem, designing the solution, writing the code,
-debugging it, and improving it.
+**Language**
+
+C++
+
+</td>
+
+<td align="center" width="25%">
+
+**IDE**
+
+Visual Studio
+
+</td>
+
+<td align="center" width="25%">
+
+**Version Control**
+
+Git
+
+</td>
+
+<td align="center" width="25%">
+
+**Platform**
+
+GitHub
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 Currently Learning
+## 📚 Learning Journey
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithms-1F6FEB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-00897B?style=for-the-badge"/>
-</p>
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+### ✅ Completed
+
+- Programming Fundamentals
+- Algorithms & Problem Solving
+- C++ Programming
+- 65 C++ Problems
+- Course 8 Projects
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📖 Currently
+
+**Foundations — Level 2**
+
+- Computer Networks
+- Internet Fundamentals
+- TCP/IP
+- IPv4 / IPv6
+- Subnets
+- Ports & Sockets
+- DNS
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎯 Next
+
+- Object-Oriented Programming
+- Advanced C++
+- Larger Projects
+- Software Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 My Philosophy
+
+> **Don't memorize the solution. Understand the problem.**
+
+I want every problem I solve to improve the way I think, design solutions,
+write code, and debug.
 
 ---
 
 <div align="center">
 
-### 🧪 Build. Break. Learn. Repeat.
+### Keep Learning. Keep Building. Keep Improving.
 
 **10 Billion Percent!**
 
