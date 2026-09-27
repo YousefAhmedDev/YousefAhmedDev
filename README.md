@@ -18,7 +18,7 @@
 
 <p>
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=YousefAhmedDev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
-  
+
   <p align="right">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -37,7 +37,7 @@
 
 ### 🧠 About Me
 
-I'm a C++ learner focused on **problem solving, algorithms, and building real projects**.
+I'm a C++ learner focused on **problem solving, algorithms, and building strong programming fundamentals**.
 
 I learn by understanding the problem, designing the solution, writing the code,
 debugging it, and improving it.
@@ -50,22 +50,6 @@ debugging it, and improving it.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Algorithms-1F6FEB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer%20Networks-00897B?style=for-the-badge"/>
-</p>
-
----
-
-### 📂 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/YousefAhmedDev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YousefAhmedDev&repo=Bank-System&hide_border=true&theme=transparent"/>
-</a>
-
-<a href="https://github.com/YousefAhmedDev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YousefAhmedDev&repo=ATM-System&hide_border=true&theme=transparent"/>
-</a>
-
 </p>
 
 ---
